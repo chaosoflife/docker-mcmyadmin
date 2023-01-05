@@ -1,4 +1,4 @@
-FROM openjdk:19.0.1-jdk-slim-bullseye
+FROM openjdk:19-jdk-slim
 
 ARG DEBIAN_FRONTEND="noninteractive"
 
